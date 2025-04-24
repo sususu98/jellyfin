@@ -1206,7 +1206,7 @@ public class StreamInfo
          }
 
         return info;
-        }
+    }
 
     /// <summary>
     /// Gets the target video bit depth.
